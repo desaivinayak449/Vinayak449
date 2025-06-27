@@ -2,23 +2,22 @@
 <h3 align="center">Python Developer | Ethical Hacker | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak449&show_icons=true&theme=tokyonight" alt="Vinayak's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak449&show_icons=true&theme=tokyonight" alt="Vinayak's GitHub stats" />
 </p>
 
 ---
 
 ### 💼 About Me:
-- 🔐 I’m focused on ethical hacking, especially web/mobile security.
-- 🧰 Building tools in Python for red team assessments.
-- 🧠 Learning: Advanced penetration testing & malware analysis.
-- ⚡ Fun fact: I automate everything!
+- 🔐 I’m focused on ethical hacking, especially web/mobile application security.
+- 🧰 I build tools in Python for penetration testing and automation.
+- 🧠 Currently learning: malware analysis, advanced Linux security, and offensive tooling.
+- ⚡ Fun fact: I automate everything possible, even my coffee machine ☕
 
 ---
 
-### 📫 How to Reach Me:
-- Twitter: [@Vinayak449](https://twitter.com/Vinayak449)
-- LinkedIn: [linkedin.com/in/Vinayak449](https://linkedin.com/in/Vinayak449)
-- Email: vinayak@example.com
+### 📫 Connect with Me:
+- 🔗 LinkedIn: [desai-vinayak-90ba8b333](https://www.linkedin.com/in/desai-vinayak-90ba8b333)
+- ✉️ Email: [desaivinayak449@gmail.com](mailto:desaivinayak449@gmail.com)
 
 ---
 
@@ -27,3 +26,15 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)
 ![Burp Suite](https://img.shields.io/badge/-BurpSuite-05122A?style=flat&logo=burpsuite)
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
+
+---
+
+### 📷 Banner (Optional)
+<p align="center">
+  <img src="https://github.com/Vinayak449/Vinayak449/blob/main/banner.png" alt="Vinayak's Banner">
+</p>
+
+---
+
+⭐️ Thanks for visiting my profile!
