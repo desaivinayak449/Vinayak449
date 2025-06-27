@@ -32,7 +32,7 @@
 
 ### 📷 Banner (Optional)
 <p align="center">
-  <img src="https://github.com/Vinayak449/Vinayak449/blob/main/banner.png" alt="Vinayak's Banner">
+  <img src="github_banner_vinayak.png" alt="Vinayak's Banner">
 </p>
 
 ---
